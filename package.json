@@ -1,5 +1,5 @@
 {
-  "name": "react-fixed-calendar",
+  "name": "npm-xas-react-fixed-calendar",
   "version": "1.0.0",
   "description": "A customizable calendar component for React applications, built with react-calendar and styled-components.",
   "main": "src/AppFixedCalendar.js",
