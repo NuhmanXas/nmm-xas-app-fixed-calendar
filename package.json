@@ -1,0 +1,38 @@
+{
+  "name": "react-fixed-calendar",
+  "version": "1.0.0",
+  "description": "A customizable calendar component for React applications, built with react-calendar and styled-components.",
+  "main": "src/AppFixedCalendar.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuhmanXas/nmm-xas-app-fixed-calendar.git"
+  },
+  "keywords": [
+    "react",
+    "calendar",
+    "styled-components",
+    "component"
+  ],
+  "author": "NMM.Nuhman",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-calendar": "^3.4.0",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "react": "^17.0.2 || ^18.0.0",
+    "react-dom": "^17.0.2 || ^18.0.0",
+    "react-scripts": "4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "bugs": {
+    "url": "https://github.com/NuhmanXas/nmm-xas-app-fixed-calendar/issues"
+  },
+  "homepage": "https://github.com/NuhmanXas/nmm-xas-app-fixed-calendar#readme"
+}
